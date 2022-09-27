@@ -12,6 +12,7 @@ Therefore, in this project, we are using Proximal Policy Optimization (PPO) in P
 ![image](https://user-images.githubusercontent.com/45909260/192426741-9942a2bc-3d27-4f1a-911a-fcb0369a838c.png)
 ## Result
 Training after different iterations  
-[![image](https://img.youtube.com/vi/P7y-HYkKH3U/0.jpg)](https://www.youtube.com/watch?v=P7y-HYkKH3U)
-Training with different controller combination
+[![image](https://img.youtube.com/vi/P7y-HYkKH3U/0.jpg)](https://www.youtube.com/watch?v=P7y-HYkKH3U)  
+
+Training with different controller combination  
 [![image](https://img.youtube.com/vi/WhO5WbGMjak/0.jpg)](https://www.youtube.com/watch?v=WhO5WbGMjak)
