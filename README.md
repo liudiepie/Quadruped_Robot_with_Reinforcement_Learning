@@ -11,4 +11,4 @@ Therefore, in this project, we are using Proximal Policy Optimization (PPO) in P
 ## Reward Function
 ![image](https://user-images.githubusercontent.com/45909260/192426741-9942a2bc-3d27-4f1a-911a-fcb0369a838c.png)
 ## Result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P7y-HYkKH3U/0.jpg)](https://www.youtube.com/watch?v=P7y-HYkKH3U)
+[![Test](https://img.youtube.com/vi/P7y-HYkKH3U/0.jpg)](https://www.youtube.com/watch?v=P7y-HYkKH3U)
